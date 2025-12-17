@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ Kishnav Hurkoo
 - 👀 I’m interested in developing innovative solution using cutting-edge technologies
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me ...
-- 🧑🏻‍💻 I'm a motivated, inquisitive guy that loves web/software development and AI 
+
+- 🧑🏻‍💻 I'm a motivated, inquisitive guy that loves web/software development and building AI powered tools
 
 
 
